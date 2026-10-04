@@ -1,0 +1,5 @@
+/* Base styles shared by future Ripasso themes. */
+:root{--bg:#f4f5f7;--paper:#fff;--ink:#18202b;--muted:#687180;--line:#dfe3e8;--yellow:#ffd84d;--yellow-soft:#fff4bf;--blue:#dcecff;--blue-strong:#3767d6;--green:#dff3e8;--pink:#f8dfeb;--orange:#ffe5cc;--shadow:0 18px 45px rgba(24,32,43,.08);--radius:24px}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font-family:"Bricolage Grotesque",system-ui,sans-serif}a{text-decoration:none;color:inherit}
+
+.uk-support{margin-top:14px;padding:10px 14px;border-radius:12px;background:#fff4bf;border:1px solid #f0d76b;color:#4f4a2a;font-size:14px;line-height:1.4;text-align:center}
